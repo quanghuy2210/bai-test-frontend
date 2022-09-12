@@ -615,15 +615,7 @@ html{
         height: 80vh;
         align-items: flex-end;
     }
-    .content-header_left{
-        width: 100% ;
-    }
-    .desc-header{
-         width: 100% !important;
-    }
-    .title-header{
-        font-size:2rem !important;
-    }
+    
     .content-header_right{
         display: none;
     }
